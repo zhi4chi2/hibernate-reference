@@ -1,5 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
-* [Sec Chapter](chapter2.md)
-* [Third Chapter](chapter3.md)
+* [Architecture](Architecture/README.md)
+* [Domain Model](Domain_Model/README.md)
+* [Bootstrap](Bootstrap/README.md)

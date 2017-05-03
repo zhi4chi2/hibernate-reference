@@ -1,6 +1,3 @@
-# My Awesome Book
+# Reference
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-
-* [First Chapter](chapter1.md)
+* hibernate-release-5.2.7.Final/documentation/userguide/html_single/Hibernate_User_Guide.html
