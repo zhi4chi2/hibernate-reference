@@ -1,0 +1,2 @@
+- [JPA Bootstrapping](/bootstrap/01.md)
+- [Native Bootstrapping](/bootstrap/02.md)

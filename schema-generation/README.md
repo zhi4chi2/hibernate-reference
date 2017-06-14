@@ -1,0 +1,4 @@
+- [Importing script files](/schema-generation/01.md)
+- [Database objects](/schema-generation/02.md) - FIXME 使用 HBM
+- [Database-level checks](/schema-generation/03.md) - FIXME 使用 Hibernate 特有的 @Check
+- [Default value for database column](/schema-generation/04.md) - FIXME 使用 Hibernate 特有的 @ColumnDefault
