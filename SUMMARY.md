@@ -1,5 +1,10 @@
 # Summary
 
-* [Architecture](Architecture/README.md)
-* [Domain Model](Domain_Model/README.md)
-* [Bootstrap](Bootstrap/README.md)
+- [Architecture](/architecture/README.md)
+- [Domain Model](/domain-model/README.md)
+  - [Mapping types](/domain-model/01.md)
+  - [Naming strategies](/domain-model/02.md)
+  - [Basic Types](/domain-model/03.md)
+  - [Embeddable types](/domain-model/04.md)
+  - [Entity types](/domain-model/05.md)
+- [Bootstrap](/bootstrap/README.md)
