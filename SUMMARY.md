@@ -31,3 +31,8 @@
 - [Performance Tuning and Best Practices](/best-practices/README.md)
   - [Schema management](/best-practices/01.md)
   - [Logging](/best-practices/02.md)
+
+
+## API
+- [org.hibernate.tool.schema](/api/org/hibernate/tool/schema/README.md)
+  - [org.hibernate.tool.schema.Action](/api/org/hibernate/tool/schema/Action.md)
