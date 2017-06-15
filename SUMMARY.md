@@ -17,3 +17,4 @@
   - [Default value for database column](/schema-generation/04.md) - FIXME 使用 Hibernate 特有的 @ColumnDefault
 - [Persistence Contexts](/persistence-contexts/README.md)
   - [Accessing Hibernate APIs from JPA](/persistence-contexts/01.md)
+- [Performance Tuning and Best Practices](/best-practices/README.md)

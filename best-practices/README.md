@@ -1,0 +1,2 @@
+- [Schema management](/best-practices/01.md)
+- [Logging](/best-practices/02.md)
