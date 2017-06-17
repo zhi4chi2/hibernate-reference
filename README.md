@@ -3,6 +3,23 @@
 - relational data model - database model
 
 
+[状态](/persistence-contexts/README.md)
+- transient
+- managed/persistent
+- detached
+- removed
+
+
+lazy loading 参见 [Bytecode Enhancement](/persistence-contexts/02.md)
+- proxy-based
+- lazy attribute loading
+
+
+dirty calculation 参见 [Bytecode Enhancement](/persistence-contexts/02.md)
+- diff-based
+- in-line bytecode-enhanced  dirty tracking
+
+
 # 测试项目
 pom.xml
 ```xml
