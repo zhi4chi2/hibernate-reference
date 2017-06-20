@@ -28,6 +28,7 @@
   - [Working with detached data](/persistence-contexts/10.md)
   - [Checking persistent state](/persistence-contexts/11.md)
   - [Evicting entities](/persistence-contexts/12.md)
+  - [Cascading entity state transitions](/persistence-contexts/13.md)
 - [Database access](/database-access/README.md)
   - [ConnectionProvider](/database-access/01.md)
   - [Using DataSources](/database-access/02.md)
@@ -47,5 +48,9 @@
 
 
 ## API
-- [org.hibernate.tool.schema](/api/org/hibernate/tool/schema/README.md)
+- org.hibernate.annotations
+  - [org.hibernate.annotations.CascadeType](/api/org/hibernate/annotations/CascadeType.md)
+- org.hibernate.engine.jdbc.connections.internal
+  - [org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator](/api/org/hibernate/engine/jdbc/connections/internal/ConnectionProviderInitiator.md)
+- org.hibernate.tool.schema
   - [org.hibernate.tool.schema.Action](/api/org/hibernate/tool/schema/Action.md)
