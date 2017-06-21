@@ -42,6 +42,9 @@
   - [User-provided Connections](/database-access/10.md)
   - [ConnectionProvider support for transaction isolation setting](/database-access/11.md)
   - [Database Dialect](/database-access/12.md)
+- [HQL and JPQL](/hql/README.md)
+  - Query API
+  - [Examples domain model](/hql/02.md)
 - [Performance Tuning and Best Practices](/best-practices/README.md)
   - [Schema management](/best-practices/01.md)
   - [Logging](/best-practices/02.md)
