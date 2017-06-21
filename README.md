@@ -3,7 +3,7 @@
 - relational data model - database model
 
 
-[状态](/persistence-contexts/README.md)
+[状态](/persistence-contexts/README.md), 参见 org.hibernate.event.internal.AbstractSaveEventListener.EntityState
 - transient
 - managed/persistent
 - detached

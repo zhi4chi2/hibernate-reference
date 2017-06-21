@@ -45,12 +45,15 @@
 - [HQL and JPQL](/hql/README.md)
   - Query API
   - [Examples domain model](/hql/02.md)
+  - [JPA Query API](/hql/03.md)
 - [Performance Tuning and Best Practices](/best-practices/README.md)
   - [Schema management](/best-practices/01.md)
   - [Logging](/best-practices/02.md)
 
 
 ## API
+- org.hibernate
+  - [org.hibernate.Session](/api/org/hibernate/Session.md)
 - org.hibernate.annotations
   - [org.hibernate.annotations.CascadeType](/api/org/hibernate/annotations/CascadeType.md)
 - org.hibernate.engine.jdbc.connections.internal
