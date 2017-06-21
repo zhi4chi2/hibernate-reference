@@ -20,6 +20,17 @@ dirty calculation 参见 [Bytecode Enhancement](/persistence-contexts/02.md)
 - in-line bytecode-enhanced  dirty tracking
 
 
+bytecode enhancement 参见 [Bytecode Enhancement](/persistence-contexts/02.md)
+- run-time enhancement
+- build-time enhancement
+
+
+操作，参见 [Working with detached data](/persistence-contexts/10.md)
+- detachment is the process of working with data outside the scope of any persistence context
+- reattachment is the process of taking an incoming entity instance that is in detached state and re-associating it with the current persistence context.
+- merging is the process of taking an incoming entity instance that is in detached state and copying its data over onto a new managed instance.
+
+
 # 测试项目
 pom.xml
 ```xml
