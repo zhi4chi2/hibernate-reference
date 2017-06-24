@@ -1,4 +1,4 @@
-package org.example.demo;
+package org.example.demo.hibernate;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -20,8 +20,6 @@ import javax.persistence.OrderColumn;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.persistence.Version;
-
-import org.example.demo.Test.Phone;
 
 @NamedQueries(@NamedQuery(name = "get_person_by_name", query = "select p from Person p where name = :name"))
 @Entity

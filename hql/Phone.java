@@ -1,4 +1,4 @@
-package org.example.demo;
+package org.example.demo.hibernate;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -101,7 +101,7 @@ src/main/resources/spy.properties
 databaseDialectDateFormat=yyyy-MM-dd HH:mm:ss
 dateformat=yyyy-MM-dd HH:mm:ss
 append=false
-logMessageFormat=org.example.SimpleMessageFormat
+logMessageFormat=org.example.demo.SimpleMessageFormat
 ```
 
 
@@ -125,7 +125,7 @@ src/main/resources/logback.xml
 
 
 ```java
-package org.example;
+package org.example.demo;
 
 import com.p6spy.engine.common.P6Util;
 import com.p6spy.engine.spy.appender.MessageFormattingStrategy;
