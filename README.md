@@ -51,7 +51,6 @@ pom.xml
   <name>demo-hibernate</name>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <hibernate.version>5.2.10.Final</hibernate.version>
   </properties>
 
