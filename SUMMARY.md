@@ -86,3 +86,5 @@
   - [org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator](/api/org/hibernate/engine/jdbc/connections/internal/ConnectionProviderInitiator.md)
 - org.hibernate.tool.schema
   - [org.hibernate.tool.schema.Action](/api/org/hibernate/tool/schema/Action.md)
+- org.hibernate.type
+  - [org.hibernate.type.BasicTypeRegistry](/api/org/hibernate/type/BasicTypeRegistry.md)
