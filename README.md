@@ -1,6 +1,20 @@
 # 术语
-- object model - application domain model
+- object model - application domain model, 也可以粗略称作 persistent classes, 可以有 POJO, Map, xml 等多种表示方式
 - relational data model - database model
+- hibernate type - org.hibernate.type.Type 的实现类，在 Java type 和 JDBC type 之间做 marshalling
+- value type - a piece of data that does not define its own lifecycle. It is, in effect, owned by an entity, which defines its lifecycle.
+- persistent attributes - 有状态的 fields/properties(state fields or JavaBean properties)
+
+
+Hibernate 将 type 分两类：
+- Value types
+- Entity types
+
+
+value type 又分三类：
+- Basic types
+- Embeddable types
+- Collection types
 
 
 [状态](/persistence-contexts/README.md), 参见 org.hibernate.event.internal.AbstractSaveEventListener.EntityState
