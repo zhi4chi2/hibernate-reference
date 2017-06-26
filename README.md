@@ -158,3 +158,5 @@ public class SimpleMessageFormat implements MessageFormattingStrategy {
 
 # Reference
 - hibernate-release-5.2.10.Final/documentation/userguide/html_single/Hibernate_User_Guide.html
+- https://github.com/hibernate/hibernate-orm/tree/master/documentation/src/main/asciidoc/userguide - 文档源码
+- https://github.com/hibernate/hibernate-orm/tree/master/documentation/src/test/java/org/hibernate/userguide - 文档中示例源码
