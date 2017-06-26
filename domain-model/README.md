@@ -30,6 +30,8 @@
     - [@JoinColumnOrFormula mapping](/domain-model/03/26.md)
   - [Embeddable types](/domain-model/04.md)
   - [Entity types](/domain-model/05.md)
+  - [Identifiers](/domain-model/06/README.md)
+  - [Associations](/domain-model/07/README.md)
 
 
 # 测试
