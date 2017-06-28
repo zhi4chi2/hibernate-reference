@@ -45,6 +45,12 @@ bytecode enhancement 参见 [Bytecode Enhancement](/persistence-contexts/02.md)
 - merging is the process of taking an incoming entity instance that is in detached state and copying its data over onto a new managed instance.
 
 
+relationship ends 参见 [Associations](/domain-model/07/README.md)
+- owning side - 在 OneToMany/OneToOne 中也叫 child side/client-side
+- inverse/mappedBy side - 在 OneToMany/OneToOne 中也叫 parent side
+注意是 client side owns/controls the relationship
+
+
 # 测试项目
 pom.xml
 ```xml
