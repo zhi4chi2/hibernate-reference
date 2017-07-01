@@ -4,7 +4,8 @@
 - hibernate type - org.hibernate.type.Type 的实现类，在 Java type 和 JDBC type 之间做 marshalling
 - value type - a piece of data that does not define its own lifecycle. It is, in effect, owned by an entity, which defines its lifecycle.
 - persistent attributes - 有状态的 fields/properties(state fields or JavaBean properties)
-- access strategy - 有两种
+- instance variables - persistent state of an entity, 即 persistent attributes
+- access strategy - 有两种: entity attributes (instance fields)(field-based) / accessors (instance properties)(property-based) 。由 @Id 注解的位置决定使用哪种 access strategy
 - components/embeddables - a composition of values
 
 
