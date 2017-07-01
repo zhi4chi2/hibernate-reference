@@ -29,9 +29,15 @@
     - [@JoinFormula mapping](/domain/03/25.md)
     - [@JoinColumnOrFormula mapping](/domain/03/26.md)
   - [Embeddable types](/domain/04/README.md)
+    - [Component / Embedded](/domain/04/01.md)
   - [Entity types](/domain/05.md)
   - [Identifiers](/domain/06/README.md)
   - [Associations](/domain/07/README.md)
+    - [@ManyToOne](/domain/07/01.md)
+    - [@OneToMany](/domain/07/02.md)
+    - [@OneToOne](/domain/07/03.md)
+    - [@ManyToMany](/domain/07/04.md)
+    - [@NotFound association mapping](/domain/07/05.md)
 
 
 # 测试
