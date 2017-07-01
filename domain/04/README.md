@@ -1,6 +1,6 @@
-- [Domain Model](/domain-model/README.md)
-  - [Embeddable types](/domain-model/04/README.md)
-    - [Component / Embedded](/domain-model/04/01.md)
+- [Domain Model](/domain/README.md)
+  - [Embeddable types](/domain/04/README.md)
+    - [Component / Embedded](/domain/04/01.md)
 
 
 An embeddable type is another form of value type, and its lifecycle is bound to a parent entity type, therefore inheriting the attribute access(see Access strategies) from its parent

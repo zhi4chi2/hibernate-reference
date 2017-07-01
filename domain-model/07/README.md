@@ -1,7 +1,0 @@
-- [Domain Model](/domain-model/README.md)
-  - [Associations](/domain-model/07/README.md)
-    - [@ManyToOne](/domain-model/07/01.md)
-    - [@OneToMany](/domain-model/07/02.md)
-    - [@OneToOne](/domain-model/07/03.md)
-    - [@ManyToMany](/domain-model/07/04.md)
-    - [@NotFound association mapping](/domain-model/07/05.md)
