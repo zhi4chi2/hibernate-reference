@@ -72,9 +72,9 @@
   - Query API
   - [Examples domain model](/query/hql/02.md)
   - [JPA Query API](/query/hql/03.md)
-- [Performance Tuning and Best Practices](/best-practices/README.md)
-  - [Schema management](/best-practices/01.md)
-  - [Logging](/best-practices/02.md)
+- [Performance Tuning and Best Practices](/appendices/best-practices/README.md)
+  - [Schema management](/appendices/best-practices/01.md)
+  - [Logging](/appendices/best-practices/02.md)
 
 
 ## API
