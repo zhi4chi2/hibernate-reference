@@ -84,6 +84,8 @@
   - [org.hibernate.annotations.CascadeType](/api/org/hibernate/annotations/CascadeType.md)
 - org.hibernate.engine.jdbc.connections.internal
   - [org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator](/api/org/hibernate/engine/jdbc/connections/internal/ConnectionProviderInitiator.md)
+- org.hibernate.id.factory.internal
+  - [org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory](/api/org/hibernate/id/factory/internal/DefaultIdentifierGeneratorFactory.md)
 - org.hibernate.tool.schema
   - [org.hibernate.tool.schema.Action](/api/org/hibernate/tool/schema/Action.md)
 - org.hibernate.type

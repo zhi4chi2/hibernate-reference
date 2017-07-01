@@ -28,7 +28,7 @@
     - [@Any mapping](/domain-model/03/24.md)
     - [@JoinFormula mapping](/domain-model/03/25.md)
     - [@JoinColumnOrFormula mapping](/domain-model/03/26.md)
-  - [Embeddable types](/domain-model/04.md)
+  - [Embeddable types](/domain-model/04/README.md)
   - [Entity types](/domain-model/05.md)
   - [Identifiers](/domain-model/06/README.md)
   - [Associations](/domain-model/07/README.md)
