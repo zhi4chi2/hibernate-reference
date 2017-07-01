@@ -68,10 +68,10 @@
   - [User-provided Connections](/jdbc/10.md)
   - [ConnectionProvider support for transaction isolation setting](/jdbc/11.md)
   - [Database Dialect](/jdbc/12.md)
-- [HQL and JPQL](/hql/README.md)
+- [HQL and JPQL](/query/hql/README.md)
   - Query API
-  - [Examples domain model](/hql/02.md)
-  - [JPA Query API](/hql/03.md)
+  - [Examples domain model](/query/hql/02.md)
+  - [JPA Query API](/query/hql/03.md)
 - [Performance Tuning and Best Practices](/best-practices/README.md)
   - [Schema management](/best-practices/01.md)
   - [Logging](/best-practices/02.md)

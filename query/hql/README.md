@@ -1,0 +1,4 @@
+- [HQL and JPQL](/query/hql/README.md)
+  - Query API
+  - [Examples domain model](/query/hql/02.md)
+  - [JPA Query API](/query/hql/03.md)
