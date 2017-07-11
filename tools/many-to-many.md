@@ -24,6 +24,19 @@ drop table if exists b;
 
 create table a(id bigint not null primary key, a varchar(255));
 create table b(id bigint not null primary key, b varchar(255));
+create table a_b(a_id bigint not null references a(id), b_id bigint not null references b(id), constraint uk_a_b unique(a_id, b_id));
+```
+都不行。
+
+
+改为
+```sql
+drop table if exists a_b;
+drop table if exists a;
+drop table if exists b;
+
+create table a(id bigint not null primary key, a varchar(255));
+create table b(id bigint not null primary key, b varchar(255));
 create table a_b(a_id bigint not null references a(id), b_id bigint not null references b(id), primary key(a_id, b_id));
 ```
 
