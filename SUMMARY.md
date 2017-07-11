@@ -106,6 +106,10 @@
   - [Logging](/appendices/best-practices/02.md)
 
 
+[Hibernate Tools](/tools/README.md)
+- [many-to-many](/tools/many-to-many.md)
+
+
 ## API
 - org.hibernate
   - [org.hibernate.Session](/api/org/hibernate/Session.md)
