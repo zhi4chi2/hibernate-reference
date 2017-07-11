@@ -61,6 +61,7 @@
     - [@OneToOne](/domain/07/03.md)
     - [@ManyToMany](/domain/07/04.md)
     - [@NotFound association mapping](/domain/07/05.md)
+  - [Collections](/domain/08/README.md)
 - [Bootstrap](/bootstrap/README.md)
   - [JPA Bootstrapping](/bootstrap/01.md)
   - [Native Bootstrapping](/bootstrap/02.md)
