@@ -1,7 +1,3 @@
-# bug
-- 运行 build.xml 时不使用配置的 src/main/resources/logback.xml
-
-
 # 测试项目
 pom.xml
 ```xml
@@ -193,3 +189,10 @@ public class ReverseEngineering extends DelegatingReverseEngineeringStrategy {
 }
 ```
 
+
+## bug
+- 运行 build.xml 时不使用配置的 src/main/resources/logback.xml 。之前的版本 hibernate-tools-4.3.1.Final 是可以用 src/main/resources/log4j.xml 的。
+
+
+# 目录
+- [Hibernate Tools](/tools/README.md)
