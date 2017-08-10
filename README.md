@@ -1,1 +1,2 @@
 - Hibernate ORM
+- Hibernate Validator
