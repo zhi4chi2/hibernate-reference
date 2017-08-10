@@ -1,3 +1,3 @@
-- [Performance Tuning and Best Practices](/appendices/best-practices/README.md)
-  - [Schema management](/appendices/best-practices/01.md)
-  - [Logging](/appendices/best-practices/02.md)
+- [Performance Tuning and Best Practices](/orm/appendices/best-practices/README.md)
+  - [Schema management](/orm/appendices/best-practices/01.md)
+  - [Logging](/orm/appendices/best-practices/02.md)

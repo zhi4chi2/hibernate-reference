@@ -1,3 +1,3 @@
-- [Bootstrap](/bootstrap/README.md)
-  - [JPA Bootstrapping](/bootstrap/01.md)
-  - [Native Bootstrapping](/bootstrap/02.md)
+- [Bootstrap](/orm/bootstrap/README.md)
+  - [JPA Bootstrapping](/orm/bootstrap/01.md)
+  - [Native Bootstrapping](/orm/bootstrap/02.md)
